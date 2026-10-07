@@ -7,7 +7,7 @@ const products = [
 ["TG Special", "৳1,200 / কেজি", "product6.jpeg", "বিশেষ মানের চা।"],
 ["Masala Tea", "৳1,500 / কেজি", "product7.jpg", "সুগন্ধি মসলা চা।"],
 ["BT-2", "৳400 / কেজি", "product8.jpg", "প্রতিদিনের জন্য ভালো মানের চা।"]
-
+];
 document.getElementById("grid").innerHTML = products.map(p =>
   '<article class="product">' +
     '<img src="assets/' + p[2] + '" alt="' + p[0] + '">' +
