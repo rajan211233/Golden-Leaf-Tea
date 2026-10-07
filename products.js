@@ -1,5 +1,5 @@
 const products = [
-  ["BTRI Green Tea", "৳3,000 / কেজি", "product1.jpeg", "বাংলাদেশের মানসম্মত গ্রিন টি।"],
+  ["BTRI Green Tea", "৳3,000 / কেজি", "product1.jpg", "বাংলাদেশের মানসম্মত গ্রিন টি।"],
   ["Premium Green Tea", "৳2,000 / কেজি", "product7.jpg", "উন্নত মানের প্রিমিয়াম গ্রিন টি।"],
   ["Pearl Green Tea (মুক্তা)", "৳300 / 100 গ্রাম জার", "product8.jpg", "সুগন্ধ ও স্বাদে বিশেষ গ্রিন টি।"],
   ["Tea Gold", "৳500 / কেজি", "product1.jpg", "Golden Leaf Tea-এর বিশেষ চা।"],
