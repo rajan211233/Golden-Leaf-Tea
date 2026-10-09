@@ -10,7 +10,8 @@ const products = [
 ];
 document.getElementById("grid").innerHTML = products.map(p =>
   '<article class="product">' +
-    '<img src="assets/' + p[2] + '" alt="' + p[0] + '">' +
+    
+'<img src="assets/' + p[2] + '" alt="' + p[0] + '" loading="lazy" decoding="async">' +
     '<div>' +
       '<h3>' + p[0] + '</h3>' +
       '<p>' + p[3] + '</p>' +
